@@ -2,7 +2,7 @@
 
 #include <cstdio>
 #include <3ds.h>
-#include <base/eg_engine.h>
+#include "../../engine/include/base/eg_engine.h"
 #include "../main/main_include.h"
 #include "../main/main_input.h"
 #include "ipaddr_include.h"

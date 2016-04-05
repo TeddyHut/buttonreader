@@ -1,7 +1,7 @@
 #pragma once
 
 #include <3ds.h>
-#include <base/eg_engine.h>
+#include "../../engine/include/base/eg_engine.h"
 #include "main_include.h"
 
 namespace Main {

@@ -2,7 +2,7 @@
 
 #include <memory>
 #include <cstring>
-#include <base/eg_engine.h>
+#include "../../engine/include/base/eg_engine.h"
 #include "main_include.h"
 #include "main_input.h"
 #include "main_model_main.h"

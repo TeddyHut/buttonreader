@@ -3,7 +3,7 @@
 #include <string>
 #include <sstream>
 #include <3ds.h>
-#include <base/eg_engine.h>
+#include "../../engine/include/base/eg_engine.h"
 #include "../main/main_include.h"
 #include "ipaddr_include.h"
 #include "ipaddr_input.h"

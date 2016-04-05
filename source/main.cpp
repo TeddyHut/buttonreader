@@ -1,5 +1,5 @@
 #include <3ds.h>
-#include <base/eg_engine.h>
+#include "../engine/include/base/eg_engine.h"
 #include "../include/main/main_controller.h"
 
 int main()

@@ -4,7 +4,7 @@
 #include <sstream>
 #include <cstdio>
 #include <3ds.h>
-#include <base/eg_engine.h>
+#include "../../engine/include/base/eg_engine.h"
 
 namespace Main {
 	union uint8_int16_u {
