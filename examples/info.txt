@@ -1,0 +1,32 @@
+Commmands:
+
+hld - Button is held. Place a button symbol after.
+prs - Button is pressed. Place a button symbol after.
+rls - Button is released. Place a button symbol after.
+>   - Results in. Use after command condition for command execution.
+dlu - Delay for a uint32_t usec value.
+lrx - Left stick position x range condition. Place two int16 values after that should state the range.
+lry - Left stick position y range condition. Place two int16 values after that should state the range.
+rrx - Right stick position x range condition. Place two int16 values after that should state the range.
+rry - Right stick position y range condition. Place two int16 values after that should state the range.
+lsx - Left stick position x. Place a single int16 value after to state the position.
+lsy - Left stick position y. Place a single int16 value after to state the position.
+rsx - Right stick position x. Place a single int16 value after to state the position.
+rsy - Right stick position y. Place a single int16 value after to state the position.
+bpa - Button pad A.
+bpb - Button pad B.
+bpx - Button pad X.
+pby - Button pad Y.
+dpu - Dpad up.
+dpd - Dpad down.
+dpl - Dpad left.
+dpr - Dpad right.
+sbl - Shoulder button L
+sbr - Shoulder button R
+szl - Shoulder button ZL
+szr - Shoulder button ZR
+cst - Control Start
+csl - Control Select
+chm - Control home
+i16_xxx - A int16_t (xxx represents number)
+u32_xxx - A uin32_t (xxx represents number)

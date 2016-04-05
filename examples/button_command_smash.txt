@@ -1,0 +1,11 @@
+sng rrxh i16_-100 i16_-30 > prs bpa lsx i16_-150
+sng rrxh i16_30 i16_100 > prs bpa lsx i16_150
+sng rryh i16_-100 i16_-25 > prs bpa lsy i16_-150
+sng rryh i16_25 i16_100 > prs bpa lsy i16_150
+sng hld szl lrxp i16_-160 i16_-30 > lsx i16_-30 dlu u32_200000
+sng hld szr lrxp i16_-160 i16_-30 > lsx i16_-30 dlu u32_200000
+sng hld szl lrxp i16_30 i16_160 > lsx i16_30 dlu u32_200000
+sng hld szr lrxp i16_30 i16_160 > lsx i16_30 dlu u32_200000
+sng hld cst prs csl > prs chm
+sng hld csl prs cst > prs chm
+sng hld sbl hld sbr prs csl > stp
